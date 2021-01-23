@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.exe
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\bin\Debug\netcoreapp3.1\Task03_Plant_Discovery.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake_2\Task03_Plant_Discovery\obj\Debug\netcoreapp3.1\Task03_Plant_Discovery.genruntimeconfig.cache
